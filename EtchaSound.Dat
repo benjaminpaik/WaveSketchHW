@@ -1,0 +1,48 @@
+Field=Comment~String~Comment~101|Field=Description~String~Description~101|Field=Designator~String~Designator~101|Field=Footprint~String~Footprint~101|Field=LibRef~String~LibRef~101|Field=Manufacturer~String~Manufacturer~101|Field=Manufacturer Part Number~String~Manufacturer Part Number~101|Field=Quantity~Integer~Quantity~101|Field=Supplier~String~Supplier~101|Field=Supplier Part Number~String~Supplier Part Number~101|Field=Value~String~Value~101|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~EtchaSound.PrjPcb|ReportField=ProjectFullPath~C:\Users\benja_000\Documents\Altium\Projects\EtchaSound\EtchaSound.PrjPcb|ReportField=Title~BOM_PartType For Project [EtchaSound.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~135|ReportField=ReportTime~8:39:24 PM|ReportField=ReportDate~11/6/2018|ReportField=ReportDateTime~11/6/2018 8:39:24 PM|ReportField=OutputName~BOM_PartType|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~EtchaSound.PrjPcb|ReportField=DataSourceFullPath~C:\Users\benja_000\Documents\Altium\Projects\EtchaSound\EtchaSound.PrjPcb
+CC0603JRNPO9BN101|Capacitor|C1, C4|1608[0603]|Cap|Yageo|CC0603JRNPO9BN101|2|||100pF
+06031A470FAT2A|Capacitor|C2|1608[0603]|Cap|AVX Corporation|06031A470FAT2A|1|||47pF
+C2012JB1V106K085AC|Capacitor|C3|6-0805_N|Cap|TDK Corporation|C2012JB1V106K085AC|1|||10uF
+CC1206KKX7R7BB225|Capacitor|C5_U_Encoders_X, C5_U_Encoders_Y, C6_U_Encoders_X, C6_U_Encoders_Y, C29, C30|C1206|Cap|Yageo|CC1206KKX7R7BB225|6|||2.2uF
+06035G104ZAT2A|Capacitor|C7, C11, C24, C25, C26, C33, C34, C35, C36, C37, C38, C39, C40, C41, C43, C44, C45, C46, C47, C48, C49, C50, C51, C52, C53, C54|1608[0603]|Cap|AVX Corporation|06035G104ZAT2A|26|||100nF
+EEE-FK1V470P|Polarized Capacitor (Surface Mount)|C8, C9|SMT Electrolytic|Cap Pol3|Panasonic|EEE-FK1V470P|2|||47uF
+CL21A475KACLRNC|Capacitor|C10|C0805|Cap|Samsung Electro-Mechanics|CL21A475KACLRNC|1|||4.7uF
+C3216JB1H106M160AB|Ceramic Capacitor|C12, C13|C1206|GRM32ER71J106KA12L|TDK Corporation|C3216JB1H106M160AB|2|||10uF
+C0603C220J5GACTU|Capacitor|C14|1608[0603]|GJM0335C0J220JB01D||C0603C220J5GACTU|1|||22pF
+CL21A226KPCLRNC|Capacitor|C15, C16|6-0805_N|C2012X5R1V226M125AC||CL21A226KPCLRNC|2|||22uF
+CL10A105KA8NNNC|Capacitor|C17|1608[0603]|Cap|Samsung Electro-Mechanics|CL10A105KA8NNNC|1|||1uF
+CL10B103KB8NCNC|Capacitor|C18|1608[0603]|Cap|Samsung Electro-Mechanics|CL10B103KB8NCNC|1|||10nF
+04025C332KAT2A||C19, C20, C21, C22, C23|0402|Cap Film||04025C332KAT2A|5|||3.3nF
+CL10C200JB8NNNC|Capacitor|C27, C28|1608[0603]|Cap|Samsung Electro-Mechanics|CL10C200JB8NNNC|2|||20pF
+CL10B105MO8NNWC|Capacitor|C31, C32, C42|1608[0603]|Cap|Samsung Electro-Mechanics|CL10B105MO8NNWC|3|||1uF
+1N5819HW-7-F|Default Diode|D1, D2|SOD123|Diode|||2|||
+SSL-LX3059IGW|LED GRN/RED DIFF T-3MM TRI T/H|D3|LED GRN/RED|LED GRN/RED|Lumex Opto/Components Inc.|SSL-LX3059IGW|1|||
+WQP-PJ301M-12_JACK|3.5mm Eurorack Jacks|J1, J2, J3, J4|WQP-PJ301M-12_JACK|Phonejack3|Thonkiconn|PJ301BM Jacks|4|||
+CLF7045T-3R3N|Inductor|L1|IND_7045|CLF7045T-3R3N||CLF7045T-3R3N|1|||3.3uH
+Header 5X2|Header, 5-Pin, Dual row|P1|HDR2X5|Header 5X2|||1|||
+640456-8|Header, 8-Pin|P2|MHDR1X8|MHDR1X8|TE Connectivity AMP Connectors|640456-8|1|||
+302-S201|Header, 10-Pin, Dual row|P3|HDR2X10|MHDR2X10|On Shore Technology Inc.|302-S201|1|||
+Header 3|640456-3|P4|HDR1X3|Header 3|TE Connectivity AMP Connectors|640456-3|1|||
+RR0816P-104-D|Resistor|R1|1608[0603]|Res3|Susumu|RR0816P-104-D|1|||100K
+ERA-3AEB2492V|ERA-3AEB2492V|R2|J1-0603|Res3|Panasonic Electronic Components|ERA-3AEB2492V|1|||24.9K
+ERA-3AEB393V|ERA-3AEB393V|R3, R4|1608[0603]|Res3|Panasonic Electronic Components|ERA-3AEB393V|2|||39K
+RR0816P-102-D|Resistor|R5, R16, R17, R33, R34, R40, R41, R42, R48|1608[0603]|Res3|Susumu|RR0816P-102-D|9|||1K
+RR1220P-103-D|Resistor|R6_U_Encoders_X, R6_U_Encoders_Y, R7_U_Encoders_X, R7_U_Encoders_Y, R8_U_Encoders_X, R8_U_Encoders_Y, R9_U_Encoders_X, R9_U_Encoders_Y, R10, R28, R30, R31, R32, R35, R36, R38, R39, R44, R45, R46, R47|6-0805_N|Res3|Susumu|RR1220P-103-D|21|||10K
+ERA-3AEB8452V|Resistor|R11|1608[0603]|CRCW040284K5FKED||ERA-3AEB8452V|1|||84.5k
+ERA-3AEB2552V|Resistor|R12|1608[0603]|CRCW040225K5FKED||ERA-3AEB2552V|1|||25.5k
+CRGP0603F56R|Resistor|R13, R14, R15, R18, R19, R22, R23, R24, R25|1608[0603]|R_Dup1|TE Connectivity Passive Product|CRGP0603F56R|9|||56 Ohm
+RC0603JR-070RL|Resistor|R20, R21|1608[0603]|Res3|Yageo|RC0603JR-070RL|2|||0 Ohm
+Res1|Resistor|R26|1608[0603]|Res1|Yageo|RC0603FR-07220RL|1|||220 Ohm
+ERJ-3EKF54R9V|ERJ-3EKF54R9V|R27|1608[0603]|Res3|Panasonic Electronic Components|ERJ-3EKF54R9V|1|||54.9
+RC1206FR-0764R9L|RC1206FR-0764R9L|R29|C1206|Res3|Yageo|RC1206FR-0764R9L|1|||64.9
+P0915N-FC15BR10K|Potentiometer|R37, R43|P0915N|RPot|TT Electronics/BI|P0915N-FC15BR10K|2|||10K
+FSM101|Double-Pole, Single-Throw Switch|S1, S2|FSM101|SW-DPST|TE Connectivity ALCOSWITCH Switches|FSM101|2|||
+TL072CD|IC OPAMP JFET 4MHZ 8SO|U1|TI-D8_N|TL072CD|STMicroelectronics|TL072CDT|1|||
+PEC11L-4115F-S0020||U2_U_Encoders_X, U2_U_Encoders_Y|ENC5|PEC11-4215F-S24|Bourns Inc.|PEC11L-4115F-S0020|2|||
+LM4132||U3|SOT-23-5|LM4132|Texas Instruments||1|Digikey|296-48574-2-ND|
+TPS54239EDDA|4.5V to 23V Input, 2-A Synchronous Step-Down SWIFT™ Converter With Eco-mode|U4|DDA|TPS54239EDDA|Texas Instruments|TPS54239EDDAR|1|||
+STM32F407VGT6|ARM Cortex-M4 32-bit MCU+FPU, 210 DMIPS, 1024 kB Flash, 192 kB Internal RAM, 82 I/Os, 100-pin LQFP, -40 to 85 degC, Tray|U5|LQFP100_N|STM32F407VGT6|STMicroelectronics|STM32F407VGT6|1|||
+DAC8571IDGKR|DAC8571IDGKR|U6|DGK8|DAC8571IDGKR|Texas Instruments||1|||
+ADS1118IDGSR|16-Bit ADC with Integrated Multiplexer, PGA, Temperature Sensor, Oscillator, and Reference, -40 to 125 degC, 10-pin SOP (DGS10), Green (RoHS & no Sb/Br)|U7|TI-DGS10_N|ADS1118IDGSR|Texas Instruments|ADS1118IDGSR|1|||
+OPA2337EA/3K|Low Cost FET-Input Operational Amplifier, 4.5 to 36 V, -40 to 85 degC, 8-pin SOP (DGK8), Green (RoHS & no Sb/Br)|U8, U9, U10|SOT-23-8|OPA2137E/2K5|Texas Instruments||3|||
+MAX3221ECPWR|MAX3221ECPWR|U11|PW16|MAX3221ECPWR|Texas Instruments|MAX3221ECPWR|1|||
+8 MHz|ABMM2-8.000MHZ-E2-T|Y1|CRYSTAL_ABMM2|ABMM2-8.000MHZ-E|Abracon|ABMM2-8.000MHZ-E2-T|1|||8 MHz

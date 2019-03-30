@@ -1,0 +1,325 @@
+Added Component: Designator=C8(SMT Electrolytic)
+Added Component: Designator=C9(SMT Electrolytic)
+Added Component: Designator=D1(SOD123)
+Added Component: Designator=D2(SOD123)
+Added Component: Designator=D3(LED GRN/RED)
+Added Component: Designator=J1(WQP-PJ301M-12_JACK)
+Added Component: Designator=J2(WQP-PJ301M-12_JACK)
+Added Component: Designator=J3(WQP-PJ301M-12_JACK)
+Added Component: Designator=J4(WQP-PJ301M-12_JACK)
+Added Component: Designator=L1(IND_7045)
+Added Component: Designator=R34(P0915N)
+Added Component: Designator=R42(P0915N)
+Added Component: Designator=S1(FSM101)
+Added Component: Designator=S2(FSM101)
+Added Component: Designator=TP1(Test Point Mt Hole)
+Added Component: Designator=TP2(Test Point Mt Hole)
+Added Component: Designator=TP3(Test Point Mt Hole)
+Added Component: Designator=TP4(Test Point Mt Hole)
+Added Component: Designator=TP5(Test Point Mt Hole)
+Added Component: Designator=TP6(Test Point Mt Hole)
+Added Component: Designator=TP7(Test Point Mt Hole)
+Added Component: Designator=TP8(Test Point Mt Hole)
+Added Component: Designator=TP9(Test Point Mt Hole)
+Added Component: Designator=TP10(Test Point Mt Hole)
+Added Component: Designator=TP11(Test Point Mt Hole)
+Added Component: Designator=TP12(Test Point Mt Hole)
+Added Component: Designator=TP13(Test Point Mt Hole)
+Added Component: Designator=TP14(Test Point Mt Hole)
+Added Component: Designator=TP15(Test Point Mt Hole)
+Added Component: Designator=TP16(Test Point Mt Hole)
+Added Component: Designator=TP17(Test Point Mt Hole)
+Added Component: Designator=TP18(Test Point Mt Hole)
+Added Component: Designator=TP19(Test Point Mt Hole)
+Added Component: Designator=TP20(Test Point Mt Hole)
+Added Component: Designator=TP21(Test Point Mt Hole)
+Added Component: Designator=TP22(Test Point Mt Hole)
+Added Component: Designator=TP23(Test Point Mt Hole)
+Added Component: Designator=TP24(Test Point Mt Hole)
+Added Component: Designator=TP25(Test Point Mt Hole)
+Added Component: Designator=TP26(Test Point Mt Hole)
+Added Component: Designator=TP27(Test Point Mt Hole)
+Added Component: Designator=TP28(Test Point Mt Hole)
+Added Component: Designator=TP29(Test Point Mt Hole)
+Added Component: Designator=TP30(Test Point Mt Hole)
+Added Component: Designator=U1(TI-D8_N)
+Added Component: Designator=U2_U_Encoders_X(ENC5)
+Added Component: Designator=U2_U_Encoders_Y(ENC5)
+Added Component: Designator=U3(LM4132CQ1MFT2.5)
+Added Component: Designator=U4(DDA)
+Added Component: Designator=U5(LQFP100_N)
+Added Component: Designator=U6(DGK8)
+Added Component: Designator=U7(TI-DGS10_N)
+Added Component: Designator=U8(ASE-8.000MHZ-LC-T)
+Added Component: Designator=U9(SOT-23-8)
+Added Component: Designator=U10(SOT-23-8)
+Added Component: Designator=U11(SOT-23-8)
+Added Component: Designator=U12(PW16)
+Added Pin To Net: NetName=VCC Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=VEE Pin=C9-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=VCC Pin=D1-2
+Added Pin To Net: NetName=VEE Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=NetD3_3 Pin=D3-3
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_3 Pin=J4-3
+Added Pin To Net: NetName=OLED_VIN Pin=L1-1
+Added Pin To Net: NetName=NetC11_1 Pin=L1-2
+Added Pin To Net: NetName=GND Pin=R34-1
+Added Pin To Net: NetName=+2.5VREF Pin=R34-2
+Added Pin To Net: NetName=NetR34_3 Pin=R34-3
+Added Pin To Net: NetName=GND Pin=R42-1
+Added Pin To Net: NetName=+2.5VREF Pin=R42-2
+Added Pin To Net: NetName=NetR42_3 Pin=R42-3
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=BUTTON 1 Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=BUTTON 1 Pin=S1-4
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=BUTTON 2 Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S2-3
+Added Pin To Net: NetName=BUTTON 2 Pin=S2-4
+Added Pin To Net: NetName=NetJ1_3 Pin=TP1-1
+Added Pin To Net: NetName=NetC1_2 Pin=TP2-1
+Added Pin To Net: NetName=+2.5VREF Pin=TP3-1
+Added Pin To Net: NetName=GND Pin=TP4-1
+Added Pin To Net: NetName=OLED_VIN Pin=TP5-1
+Added Pin To Net: NetName=NetR16_2 Pin=TP6-1
+Added Pin To Net: NetName=NetR17_2 Pin=TP7-1
+Added Pin To Net: NetName=V_DAC_I2C Pin=TP8-1
+Added Pin To Net: NetName=V_DAC_INT Pin=TP9-1
+Added Pin To Net: NetName=ADC_SPI_CLK Pin=TP10-1
+Added Pin To Net: NetName=ADC_SPI_MOSI Pin=TP11-1
+Added Pin To Net: NetName=ADC_SPI_MISO Pin=TP12-1
+Added Pin To Net: NetName=ADC_SPI_CS Pin=TP13-1
+Added Pin To Net: NetName=NetJ2_3 Pin=TP14-1
+Added Pin To Net: NetName=NetJ3_3 Pin=TP15-1
+Added Pin To Net: NetName=NetR18_2 Pin=TP16-1
+Added Pin To Net: NetName=NetC43_1 Pin=TP17-1
+Added Pin To Net: NetName=NetC44_1 Pin=TP18-1
+Added Pin To Net: NetName=NetJ2_1 Pin=TP19-1
+Added Pin To Net: NetName=NetJ3_1 Pin=TP20-1
+Added Pin To Net: NetName=NetJ4_3 Pin=TP21-1
+Added Pin To Net: NetName=NetR19_2 Pin=TP22-1
+Added Pin To Net: NetName=+1.25VREF Pin=TP23-1
+Added Pin To Net: NetName=NetC47_1 Pin=TP24-1
+Added Pin To Net: NetName=NetJ4_1 Pin=TP25-1
+Added Pin To Net: NetName=RS232_RX Pin=TP26-1
+Added Pin To Net: NetName=NetTP27_1 Pin=TP27-1
+Added Pin To Net: NetName=RS232_TX Pin=TP28-1
+Added Pin To Net: NetName=NetTP29_1 Pin=TP29-1
+Added Pin To Net: NetName=NetTP30_1 Pin=TP30-1
+Added Pin To Net: NetName=NetC1_2 Pin=U1-1
+Added Pin To Net: NetName=NetC1_2 Pin=U1-2
+Added Pin To Net: NetName=NetC4_2 Pin=U1-3
+Added Pin To Net: NetName=VEE Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=NetC2_2 Pin=U1-6
+Added Pin To Net: NetName=NetC2_1 Pin=U1-7
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Pin To Net: NetName=NetU2_U_Encoders_X_1 Pin=U2_U_Encoders_X-1
+Added Pin To Net: NetName=GND Pin=U2_U_Encoders_X-2
+Added Pin To Net: NetName=NetR7_U_Encoders_X_2 Pin=U2_U_Encoders_X-3
+Added Pin To Net: NetName=GND Pin=U2_U_Encoders_X-4
+Added Pin To Net: NetName=NetR6_U_Encoders_X_1 Pin=U2_U_Encoders_X-5
+Added Pin To Net: NetName=NetU2_U_Encoders_Y_1 Pin=U2_U_Encoders_Y-1
+Added Pin To Net: NetName=GND Pin=U2_U_Encoders_Y-2
+Added Pin To Net: NetName=NetR7_U_Encoders_Y_2 Pin=U2_U_Encoders_Y-3
+Added Pin To Net: NetName=GND Pin=U2_U_Encoders_Y-4
+Added Pin To Net: NetName=NetR6_U_Encoders_Y_1 Pin=U2_U_Encoders_Y-5
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=OLED_VIN Pin=U3-3
+Added Pin To Net: NetName=+2.5VREF Pin=U3-4
+Added Pin To Net: NetName=OLED_VIN Pin=U3-5
+Added Pin To Net: NetName=NetC11_2 Pin=U4-1
+Added Pin To Net: NetName=VCC Pin=U4-2
+Added Pin To Net: NetName=NetC11_1 Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=NetC14_2 Pin=U4-5
+Added Pin To Net: NetName=NetC17_2 Pin=U4-6
+Added Pin To Net: NetName=NetR10_2 Pin=U4-7
+Added Pin To Net: NetName=NetC18_2 Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-9
+Added Pin To Net: NetName=GREEN LED Pin=U5-2
+Added Pin To Net: NetName=RED LED Pin=U5-3
+Added Pin To Net: NetName=OLED_VIN Pin=U5-6
+Added Pin To Net: NetName=GND Pin=U5-10
+Added Pin To Net: NetName=OLED_VIN Pin=U5-11
+Added Pin To Net: NetName=NetU5_12 Pin=U5-12
+Added Pin To Net: NetName=RESET Pin=U5-14
+Added Pin To Net: NetName=OLED_VIN Pin=U5-19
+Added Pin To Net: NetName=GND Pin=U5-20
+Added Pin To Net: NetName=+2.5VREF Pin=U5-21
+Added Pin To Net: NetName=NetC41_2 Pin=U5-22
+Added Pin To Net: NetName=NetC19_1 Pin=U5-23
+Added Pin To Net: NetName=NetC20_1 Pin=U5-24
+Added Pin To Net: NetName=NetC21_1 Pin=U5-25
+Added Pin To Net: NetName=NetC22_1 Pin=U5-26
+Added Pin To Net: NetName=GND Pin=U5-27
+Added Pin To Net: NetName=OLED_VIN Pin=U5-28
+Added Pin To Net: NetName=NetC23_1 Pin=U5-29
+Added Pin To Net: NetName=V_DAC_INT Pin=U5-30
+Added Pin To Net: NetName=NetC6_U_Encoders_X_2 Pin=U5-41
+Added Pin To Net: NetName=NetC5_U_Encoders_X_1 Pin=U5-42
+Added Pin To Net: NetName=NetC6_U_Encoders_Y_2 Pin=U5-43
+Added Pin To Net: NetName=NetC5_U_Encoders_Y_1 Pin=U5-44
+Added Pin To Net: NetName=NetU2_U_Encoders_X_1 Pin=U5-45
+Added Pin To Net: NetName=NetU2_U_Encoders_Y_1 Pin=U5-46
+Added Pin To Net: NetName=NetC29_2 Pin=U5-49
+Added Pin To Net: NetName=OLED_VIN Pin=U5-50
+Added Pin To Net: NetName=OLED_SPI_CLK Pin=U5-52
+Added Pin To Net: NetName=OLED_CS Pin=U5-53
+Added Pin To Net: NetName=OLED_SPI_MOSI Pin=U5-54
+Added Pin To Net: NetName=OLED_DC Pin=U5-55
+Added Pin To Net: NetName=OLED_RESET Pin=U5-56
+Added Pin To Net: NetName=NetTP30_1 Pin=U5-67
+Added Pin To Net: NetName=NetTP27_1 Pin=U5-68
+Added Pin To Net: NetName=NetTP29_1 Pin=U5-69
+Added Pin To Net: NetName=TMS Pin=U5-72
+Added Pin To Net: NetName=NetC28_2 Pin=U5-73
+Added Pin To Net: NetName=GND Pin=U5-74
+Added Pin To Net: NetName=OLED_VIN Pin=U5-75
+Added Pin To Net: NetName=TCK Pin=U5-76
+Added Pin To Net: NetName=TDI Pin=U5-77
+Added Pin To Net: NetName=ADC_SPI_CLK Pin=U5-78
+Added Pin To Net: NetName=ADC_SPI_MISO Pin=U5-79
+Added Pin To Net: NetName=ADC_SPI_MOSI Pin=U5-80
+Added Pin To Net: NetName=ADC_SPI_CS Pin=U5-81
+Added Pin To Net: NetName=TDO Pin=U5-89
+Added Pin To Net: NetName=TRST Pin=U5-90
+Added Pin To Net: NetName=NetR16_2 Pin=U5-92
+Added Pin To Net: NetName=NetR17_2 Pin=U5-93
+Added Pin To Net: NetName=NetR27_2 Pin=U5-94
+Added Pin To Net: NetName=BUTTON 1 Pin=U5-97
+Added Pin To Net: NetName=BUTTON 2 Pin=U5-98
+Added Pin To Net: NetName=GND Pin=U5-99
+Added Pin To Net: NetName=OLED_VIN Pin=U5-100
+Added Pin To Net: NetName=OLED_VIN Pin=U6-1
+Added Pin To Net: NetName=+2.5VREF Pin=U6-2
+Added Pin To Net: NetName=V_DAC_I2C Pin=U6-3
+Added Pin To Net: NetName=V_DAC_I2C Pin=U6-4
+Added Pin To Net: NetName=GND Pin=U6-5
+Added Pin To Net: NetName=NetR16_2 Pin=U6-6
+Added Pin To Net: NetName=NetR17_2 Pin=U6-7
+Added Pin To Net: NetName=GND Pin=U6-8
+Added Pin To Net: NetName=NetR22_1 Pin=U7-1
+Added Pin To Net: NetName=NetR25_1 Pin=U7-2
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=NetC19_1 Pin=U7-4
+Added Pin To Net: NetName=NetC20_1 Pin=U7-5
+Added Pin To Net: NetName=NetC21_1 Pin=U7-6
+Added Pin To Net: NetName=NetC22_1 Pin=U7-7
+Added Pin To Net: NetName=OLED_VIN Pin=U7-8
+Added Pin To Net: NetName=NetR24_1 Pin=U7-9
+Added Pin To Net: NetName=NetR23_1 Pin=U7-10
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=NetU5_12 Pin=U8-3
+Added Pin To Net: NetName=OLED_VIN Pin=U8-4
+Added Pin To Net: NetName=NetR18_2 Pin=U9-1
+Added Pin To Net: NetName=NetR18_2 Pin=U9-2
+Added Pin To Net: NetName=NetR34_3 Pin=U9-3
+Added Pin To Net: NetName=GND Pin=U9-4
+Added Pin To Net: NetName=NetC45_2 Pin=U9-5
+Added Pin To Net: NetName=NetC43_2 Pin=U9-6
+Added Pin To Net: NetName=NetC43_1 Pin=U9-7
+Added Pin To Net: NetName=OLED_VIN Pin=U9-8
+Added Pin To Net: NetName=NetC44_1 Pin=U10-1
+Added Pin To Net: NetName=NetC44_2 Pin=U10-2
+Added Pin To Net: NetName=NetC46_2 Pin=U10-3
+Added Pin To Net: NetName=GND Pin=U10-4
+Added Pin To Net: NetName=NetR42_3 Pin=U10-5
+Added Pin To Net: NetName=NetR19_2 Pin=U10-6
+Added Pin To Net: NetName=NetR19_2 Pin=U10-7
+Added Pin To Net: NetName=OLED_VIN Pin=U10-8
+Added Pin To Net: NetName=+1.25VREF Pin=U11-1
+Added Pin To Net: NetName=+1.25VREF Pin=U11-2
+Added Pin To Net: NetName=NetR43_1 Pin=U11-3
+Added Pin To Net: NetName=GND Pin=U11-4
+Added Pin To Net: NetName=NetC48_2 Pin=U11-5
+Added Pin To Net: NetName=NetC47_2 Pin=U11-6
+Added Pin To Net: NetName=NetC47_1 Pin=U11-7
+Added Pin To Net: NetName=OLED_VIN Pin=U11-8
+Added Pin To Net: NetName=GND Pin=U12-1
+Added Pin To Net: NetName=NetC50_2 Pin=U12-2
+Added Pin To Net: NetName=NetC52_2 Pin=U12-3
+Added Pin To Net: NetName=NetC50_1 Pin=U12-4
+Added Pin To Net: NetName=NetC51_2 Pin=U12-5
+Added Pin To Net: NetName=NetC51_1 Pin=U12-6
+Added Pin To Net: NetName=NetC53_2 Pin=U12-7
+Added Pin To Net: NetName=RS232_TX Pin=U12-8
+Added Pin To Net: NetName=NetTP29_1 Pin=U12-9
+Added Pin To Net: NetName=NetTP30_1 Pin=U12-10
+Added Pin To Net: NetName=NetTP27_1 Pin=U12-11
+Added Pin To Net: NetName=OLED_VIN Pin=U12-12
+Added Pin To Net: NetName=RS232_RX Pin=U12-13
+Added Pin To Net: NetName=GND Pin=U12-14
+Added Pin To Net: NetName=OLED_VIN Pin=U12-15
+Added Pin To Net: NetName=OLED_VIN Pin=U12-16
+Added Member To Class: ClassName=U_Power Supplies Member=Component C8 EEE-FK1V470P
+Added Member To Class: ClassName=U_Power Supplies Member=Component C9 EEE-FK1V470P
+Added Member To Class: ClassName=U_Power Supplies Member=Component D1 1N5819HW-7-F
+Added Member To Class: ClassName=U_Power Supplies Member=Component D2 1N5819HW-7-F
+Added Member To Class: ClassName=U_Processor Member=Component D3 SSL-LX3059IGW
+Added Member To Class: ClassName=U_Audio Member=Component J1 WQP-PJ301M-12_JACK
+Added Member To Class: ClassName=U_Analog Member=Component J2 WQP-PJ301M-12_JACK
+Added Member To Class: ClassName=U_Analog Member=Component J3 WQP-PJ301M-12_JACK
+Added Member To Class: ClassName=U_Analog Member=Component J4 WQP-PJ301M-12_JACK
+Added Member To Class: ClassName=U_Power Supplies Member=Component L1 CLF7045T-3R3N
+Added Member To Class: ClassName=U_Analog Member=Component R34 P0915N-FC15BR10K
+Added Member To Class: ClassName=U_Analog Member=Component R42 P0915N-FC15BR10K
+Added Member To Class: ClassName=U_Processor Member=Component S1 FSM101
+Added Member To Class: ClassName=U_Processor Member=Component S2 FSM101
+Added Member To Class: ClassName=U_Audio Member=Component TP1 loop test point
+Added Member To Class: ClassName=U_Audio Member=Component TP2 loop test point
+Added Member To Class: ClassName=U_Power Supplies Member=Component TP3 loop test point
+Added Member To Class: ClassName=U_Power Supplies Member=Component TP4 loop test point
+Added Member To Class: ClassName=U_Power Supplies Member=Component TP5 loop test point
+Added Member To Class: ClassName=U_Processor Member=Component TP6 loop test point
+Added Member To Class: ClassName=U_Processor Member=Component TP7 loop test point
+Added Member To Class: ClassName=U_Processor Member=Component TP8 loop test point
+Added Member To Class: ClassName=U_Processor Member=Component TP9 loop test point
+Added Member To Class: ClassName=U_Processor Member=Component TP10 loop test point
+Added Member To Class: ClassName=U_Processor Member=Component TP11 loop test point
+Added Member To Class: ClassName=U_Processor Member=Component TP12 loop test point
+Added Member To Class: ClassName=U_Processor Member=Component TP13 loop test point
+Added Member To Class: ClassName=U_Analog Member=Component TP14 loop test point
+Added Member To Class: ClassName=U_Analog Member=Component TP15 loop test point
+Added Member To Class: ClassName=U_Analog Member=Component TP16 loop test point
+Added Member To Class: ClassName=U_Analog Member=Component TP17 loop test point
+Added Member To Class: ClassName=U_Analog Member=Component TP18 loop test point
+Added Member To Class: ClassName=U_Analog Member=Component TP19 loop test point
+Added Member To Class: ClassName=U_Analog Member=Component TP20 loop test point
+Added Member To Class: ClassName=U_Analog Member=Component TP21 loop test point
+Added Member To Class: ClassName=U_Analog Member=Component TP22 loop test point
+Added Member To Class: ClassName=U_Analog Member=Component TP23 loop test point
+Added Member To Class: ClassName=U_Analog Member=Component TP24 loop test point
+Added Member To Class: ClassName=U_Analog Member=Component TP25 loop test point
+Added Member To Class: ClassName=U_Communications Member=Component TP26 loop test point
+Added Member To Class: ClassName=U_Communications Member=Component TP27 loop test point
+Added Member To Class: ClassName=U_Communications Member=Component TP28 loop test point
+Added Member To Class: ClassName=U_Communications Member=Component TP29 loop test point
+Added Member To Class: ClassName=U_Communications Member=Component TP30 loop test point
+Added Member To Class: ClassName=U_Audio Member=Component U1 TL072CD
+Added Member To Class: ClassName=U_Encoders_X Member=Component U2_U_Encoders_X (U2) PEC11L-4115F-S0020
+Added Member To Class: ClassName=U_Encoders_Y Member=Component U2_U_Encoders_Y (U2) PEC11L-4115F-S0020
+Added Member To Class: ClassName=U_Power Supplies Member=Component U3 LM4132CQ1MFT2.5
+Added Member To Class: ClassName=U_Power Supplies Member=Component U4 TPS54239EDDA
+Added Member To Class: ClassName=U_Processor Member=Component U5 STM32F407VGT6
+Added Member To Class: ClassName=U_Processor Member=Component U6 DAC8571IDGKR
+Added Member To Class: ClassName=U_Processor Member=Component U7 ADS1118IDGSR
+Added Member To Class: ClassName=U_Processor Member=Component U8 ASE-8.000MHZ-LC-T
+Added Member To Class: ClassName=U_Analog Member=Component U9 OPA2337EA/3K
+Added Member To Class: ClassName=U_Analog Member=Component U10 OPA2337EA/3K
+Added Member To Class: ClassName=U_Analog Member=Component U11 OPA2337EA/3K
+Added Member To Class: ClassName=U_Communications Member=Component U12 MAX3221ECPWR

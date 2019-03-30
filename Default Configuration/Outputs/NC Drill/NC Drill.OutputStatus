@@ -1,0 +1,8 @@
+[OutputStatus]
+OutputFileNames0=C:\Users\bpaik\Documents\Altium Projects\EtchaSound\Default Configuration\Outputs\NC Drill\PCB1-RoundHoles.TXT
+OutputFileNames1=C:\Users\bpaik\Documents\Altium Projects\EtchaSound\Default Configuration\Outputs\NC Drill\PCB1-SquareHoles.TXT
+OutputFileNames2=C:\Users\bpaik\Documents\Altium Projects\EtchaSound\Default Configuration\Outputs\NC Drill\PCB1-SlotHoles.TXT
+OutputFileNames3=C:\Users\bpaik\Documents\Altium Projects\EtchaSound\Default Configuration\Outputs\NC Drill\PCB1.LDP
+OutputFileNames4=C:\Users\bpaik\Documents\Altium Projects\EtchaSound\Default Configuration\Outputs\NC Drill\PCB1.DRR
+Success=1
+HasRun=1

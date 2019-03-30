@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\bpaik\Documents\Altium Projects\EtchaSound\PCB1.CSPcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb1-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Square_Holes|DrillFile=pcb1-squareholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb1-slotholes.txt|LayerPairs=gtl,gbl

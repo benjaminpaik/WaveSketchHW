@@ -1,0 +1,169 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C56        1608[0603]            1119mil        512mil       1119mil        512mil       1119mil    539.559mil  T        270.00 CL10A105KA8NNNC
+C55        1608[0603]            1715mil       1415mil       1715mil       1415mil       1715mil   1442.559mil  T        270.00 CL10A105KA8NNNC
+C54        1608[0603]            1512mil       2385mil       1512mil       2385mil   1539.559mil       2385mil  T        180.00 CL10A105KA8NNNC
+C11        1608[0603]             567mil       1079mil        567mil       1079mil    539.441mil       1079mil  T        360.00 06035G104ZAT2A 
+U12        PW16              1958.661mil   3897.637mil   1958.661mil   3897.637mil   1869.094mil   3786.637mil  T         90.00 MAX3221ECPWR   
+U11        SOT-23-8          1664.646mil   1289.252mil   1664.646mil   1289.252mil   1620.354mil   1327.638mil  T          0.00 OPA2337EA/3K   
+U10        SOT-23-8           1157.48mil     368.11mil    1157.48mil     368.11mil   1119.094mil    323.819mil  T         90.00 OPA2337EA/3K   
+U9         SOT-23-8              1440mil       2285mil       1440mil       2285mil   1395.709mil   2323.386mil  T        360.00 OPA2337EA/3K   
+U8         ASE-8.000MHZ-LC-T        589mil   3556.968mil        589mil       3555mil     556.52mil   3598.307mil  T        270.00 ASE-8.000MHZ-LC-T
+U7         TI-DGS10_N             270mil       3910mil        270mil       3910mil     309.37mil   3990.709mil  T        270.00 ADS1118IDGSR   
+U6         DGK8              1013.779mil   2893.701mil   1013.779mil   2893.701mil    928.279mil   2932.086mil  T        360.00 DAC8571IDGKR   
+U4         DDA                 786.26mil    992.677mil    673.071mil   1067.677mil    673.071mil   1067.677mil  T        360.00 TPS54239EDDA   
+U3         LM4132CQ1MFT2.5   1478.858mil    847.599mil   1427.677mil        885mil   1427.677mil        885mil  T          0.00 LM4132CQ1MFT2.5
+U2_EY      ENC5              1988.189mil   2332.677mil   1889.764mil   2047.244mil   1889.764mil   2047.244mil  T         90.00 PEC11L-4115F-S0020
+U2_EX      ENC5               354.331mil   2332.677mil    255.905mil   2047.244mil    255.905mil   2047.244mil  T         90.00 PEC11L-4115F-S0020
+U1         TI-D8_N           2185.039mil    383.858mil   2185.039mil    383.858mil   2110.039mil     289.37mil  T         90.00 TL072CD        
+TP30       Test_Point_Mt_Hole       2200mil       3262mil       2200mil       3262mil       2200mil       3262mil  T         90.00 loop test point
+TP29       Test_Point_Mt_Hole       2200mil       3364mil       2200mil       3364mil       2200mil       3364mil  T         90.00 loop test point
+TP26       Test_Point_Mt_Hole       2200mil       3670mil       2200mil       3670mil       2200mil       3670mil  T        360.00 loop test point
+TP25       Test_Point_Mt_Hole       1650mil        286mil       1650mil        286mil       1650mil        286mil  B         90.00 loop test point
+TP24       Test_Point_Mt_Hole       2028mil       1316mil       2028mil       1316mil       2028mil       1316mil  T         90.00 loop test point
+TP23       Test_Point_Mt_Hole       1601mil       1111mil       1601mil       1111mil       1601mil       1111mil  T         90.00 loop test point
+TP22       Test_Point_Mt_Hole       1324mil        530mil       1324mil        530mil       1324mil        530mil  B         90.00 loop test point
+TP21       Test_Point_Mt_Hole       1650mil        427mil       1650mil        427mil       1650mil        427mil  B         90.00 loop test point
+TP20       Test_Point_Mt_Hole        991mil        101mil        991mil        101mil        991mil        101mil  B         90.00 loop test point
+TP19       Test_Point_Mt_Hole        323mil        177mil        323mil        177mil        323mil        177mil  B         90.00 loop test point
+TP18       Test_Point_Mt_Hole        676mil        325mil        676mil        325mil        676mil        325mil  B         90.00 loop test point
+TP17       Test_Point_Mt_Hole       1662mil       2061mil       1662mil       2061mil       1662mil       2061mil  T         90.00 loop test point
+TP16       Test_Point_Mt_Hole        750mil       2320mil        750mil       2320mil        750mil       2320mil  T         90.00 loop test point
+TP15       Test_Point_Mt_Hole        676mil        476mil        676mil        476mil        676mil        476mil  B         90.00 loop test point
+TP14       Test_Point_Mt_Hole        383mil        629mil        383mil        629mil        383mil        629mil  B         90.00 loop test point
+TP13       Test_Point_Mt_Hole        525mil       4070mil        525mil       4070mil        525mil       4070mil  T         90.00 loop test point
+TP12       Test_Point_Mt_Hole        529mil       3770mil        529mil       3770mil        529mil       3770mil  T         90.00 loop test point
+TP11       Test_Point_Mt_Hole        525mil       3870mil        525mil       3870mil        525mil       3870mil  T         90.00 loop test point
+TP10       Test_Point_Mt_Hole        525mil       3970mil        525mil       3970mil        525mil       3970mil  T         90.00 loop test point
+TP9        Test_Point_Mt_Hole        728mil       2664mil        728mil       2664mil        728mil       2664mil  T          0.00 loop test point
+TP8        Test_Point_Mt_Hole        728mil       2805mil        728mil       2805mil        728mil       2805mil  T          0.00 loop test point
+TP7        Test_Point_Mt_Hole       1194mil       2945mil       1194mil       2945mil       1194mil       2945mil  T          0.00 loop test point
+TP6        Test_Point_Mt_Hole       1203mil       2785mil       1203mil       2785mil       1203mil       2785mil  T          0.00 loop test point
+TP5        Test_Point_Mt_Hole        173mil        662mil        173mil        662mil        173mil        662mil  T          0.00 loop test point
+TP4        Test_Point_Mt_Hole       2204mil       3161mil       2204mil       3161mil       2204mil       3161mil  T          0.00 loop test point
+TP3        Test_Point_Mt_Hole        318mil       3349mil        318mil       3349mil        318mil       3349mil  T          0.00 loop test point
+TP2        Test_Point_Mt_Hole   2057.087mil    895.669mil   2057.087mil    895.669mil   2057.087mil    895.669mil  T          0.00 loop test point
+TP1        Test_Point_Mt_Hole   2155.512mil    895.669mil   2155.512mil    895.669mil   2155.512mil    895.669mil  T          0.00 loop test point
+S2         FSM101            1978.347mil   1712.598mil   1732.284mil   1811.024mil   1732.284mil   1811.024mil  T        360.00 FSM101         
+S1         FSM101             364.173mil   1712.598mil     118.11mil   1811.024mil     118.11mil   1811.024mil  T        360.00 FSM101         
+R47        1608[0603]            1700mil       1138mil       1700mil       1138mil   1727.559mil       1138mil  T        180.00 RR0816P-102-D  
+R46        6-0805_N              1608mil        177mil       1608mil        177mil   1643.433mil        177mil  B        180.00 RR1220P-103-D  
+R45        6-0805_N              1502mil       1369mil       1502mil       1369mil   1537.433mil       1369mil  T        180.00 RR1220P-103-D  
+R44        6-0805_N              1836mil       1152mil       1836mil       1152mil       1836mil   1187.433mil  T        270.00 RR1220P-103-D  
+R43        6-0805_N              1502mil       1280mil       1502mil       1280mil   1537.433mil       1280mil  T        180.00 RR1220P-103-D  
+R42        P0915N             1171.26mil    1328.74mil   1072.835mil   1181.102mil   1072.835mil   1181.102mil  T         90.00 P0915N-FC15BR10K
+R41        1608[0603]            1835mil       1289mil       1835mil       1289mil       1835mil   1316.559mil  T        270.00 RR0816P-102-D  
+R40        1608[0603]            1215mil        205mil       1215mil        205mil   1187.441mil        205mil  T        360.00 RR0816P-102-D  
+R39        1608[0603]            1540mil       2155mil       1540mil       2155mil       1540mil   2182.559mil  T        270.00 RR0816P-102-D  
+R36        6-0805_N               998mil        631mil        998mil        631mil   1033.433mil        631mil  B        180.00 RR1220P-103-D  
+R35        6-0805_N               615mil        630mil        615mil        630mil    650.433mil        630mil  B        180.00 RR1220P-103-D  
+R34        P0915N             1171.26mil   1998.032mil   1072.835mil   1850.394mil   1072.835mil   1850.394mil  T         90.00 P0915N-FC15BR10K
+R33        1608[0603]            1111mil        205mil       1111mil        205mil   1083.441mil        205mil  T        360.00 RR0816P-102-D  
+R32        1608[0603]            1610mil       2285mil       1610mil       2285mil       1610mil   2312.559mil  T        270.00 RR0816P-102-D  
+R31        6-0805_N              1670mil       2945mil       1670mil       2945mil   1705.433mil       2945mil  B        180.00 RR1220P-103-D  
+R30        6-0805_N              1825mil       3120mil       1825mil       3120mil       1825mil   3155.433mil  T        270.00 RR1220P-103-D  
+R29        6-0805_N              1835mil       3350mil       1835mil       3350mil       1835mil   3314.567mil  T         90.00 RR1220P-103-D  
+R28        C1206                 1067mil       2690mil       1067mil       2690mil       1067mil    2636.85mil  T         90.00 RC1206FR-0764R9L
+R27        6-0805_N               869mil       3792mil        869mil       3792mil        869mil   3827.433mil  B        270.00 RR1220P-103-D  
+R26        1608[0603]            1261mil       2466mil       1261mil       2466mil       1261mil   2438.441mil  T         90.00 ERJ-3EKF54R9V  
+R25        1608[0603]             400mil       4055mil        400mil       4055mil    372.441mil       4055mil  T        360.00 CRGP0603F56R   
+R24        1608[0603]             400mil       3770mil        400mil       3770mil    372.441mil       3770mil  T        360.00 CRGP0603F56R   
+R23        1608[0603]             400mil       3825mil        400mil       3825mil    372.441mil       3825mil  T        360.00 CRGP0603F56R   
+R22        1608[0603]             400mil       4000mil        400mil       4000mil    372.441mil       4000mil  T        360.00 CRGP0603F56R   
+R21        1608[0603]             844mil       2637mil        844mil       2637mil        844mil   2609.441mil  T         90.00 RC0603JR-070RL 
+R20        1608[0603]             908mil       2637mil        908mil       2637mil        908mil   2609.441mil  T         90.00 RC0603JR-070RL 
+R19        1608[0603]         1171.26mil    511.811mil    1171.26mil    511.811mil    1171.26mil     539.37mil  T        270.00 CRGP0603F56R   
+R18        1608[0603]             318mil       3061mil        318mil       3061mil        318mil   3088.559mil  T        270.00 CRGP0603F56R   
+R17        1608[0603]            1304mil       2928mil       1304mil       2928mil   1331.559mil       2928mil  T        180.00 RR0816P-102-D  
+R16        1608[0603]            1203mil       2869mil       1203mil       2869mil   1230.559mil       2869mil  T        180.00 RR0816P-102-D  
+R15        1608[0603]            1859mil       1368mil       1859mil       1368mil   1886.559mil       1368mil  T        180.00 CRGP0603F56R   
+R14        1608[0603]             144mil       3190mil        144mil       3190mil        144mil   3217.559mil  B        270.00 CRGP0603F56R   
+R13        1608[0603]            1664mil       2342mil       1664mil       2342mil       1664mil   2369.559mil  T        270.00 CRGP0603F56R   
+R12        1608[0603]             943mil        857mil        943mil        857mil    970.559mil        857mil  T        180.00 ERA-3AEB2552V  
+R11        1608[0603]        1007.716mil    910.197mil   1007.716mil    910.197mil   1035.275mil    910.197mil  T        180.00 ERA-3AEB8452V  
+R10        6-0805_N               985mil       1070mil        985mil       1070mil        985mil   1105.433mil  T        270.00 RR1220P-103-D  
+R9Y        6-0805_N              1990mil       2755mil       1990mil       2755mil       1990mil   2719.567mil  T         90.00 RR1220P-103-D  
+R9X        6-0805_N               435mil       2755mil        435mil       2755mil        435mil   2719.567mil  T         90.00 RR1220P-103-D  
+R8Y        6-0805_N              1648mil       2600mil       1648mil       2600mil   1683.433mil       2600mil  T        180.00 RR1220P-103-D  
+R8X        6-0805_N           137.795mil   2755.905mil    137.795mil   2755.905mil    137.795mil   2720.472mil  T         90.00 RR1220P-103-D  
+R7Y        6-0805_N          2086.614mil   2755.905mil   2086.614mil   2755.905mil   2086.614mil   2791.338mil  T        270.00 RR1220P-103-D  
+R7X        6-0805_N               350mil       2755mil        350mil       2755mil        350mil   2790.433mil  T        270.00 RR1220P-103-D  
+R6Y        6-0805_N              1647mil       2516mil       1647mil       2516mil   1682.433mil       2516mil  T        180.00 RR1220P-103-D  
+R6X        6-0805_N               265mil       2755mil        265mil       2755mil        265mil   2719.567mil  T         90.00 RR1220P-103-D  
+R5         1608[0603]        2155.512mil    659.449mil   2155.512mil    659.449mil   2155.512mil    687.008mil  T        270.00 RR0816P-102-D  
+R4         1608[0603]        2153.543mil     157.48mil   2153.543mil     157.48mil   2181.102mil     157.48mil  T        180.00 ERA-3AEB393V   
+R3         1608[0603]        2066.929mil    177.165mil   2066.929mil    177.165mil   2066.929mil    149.606mil  T         90.00 ERA-3AEB393V   
+R2         1608[0603]        2273.622mil    659.449mil   2273.622mil    659.449mil   2273.622mil     631.89mil  T         90.00 ERA-3AEB2492V  
+R1         1608[0603]        2214.567mil    659.449mil   2214.567mil    659.449mil   2214.567mil    687.008mil  T        270.00 RR0816P-104-D  
+P4         HDR1X3                2150mil       3915mil       2150mil       3815mil       2150mil       3815mil  B         90.00 Header 3       
+P3         HDR2X10               1670mil       3485mil       1620mil       3935mil       1620mil       3935mil  T        270.00 302-S201       
+P2         HDR1X8                1140mil       4075mil        790mil       4075mil        790mil       4075mil  T        360.00 640456-8       
+P1         HDR2X5             807.874mil       1450mil    757.874mil       1250mil    757.874mil       1250mil  B         90.00 Header 5X2     
+L1         IND_7045               289mil        974mil        289mil        974mil    172.858mil        974mil  T        360.00 CLF7045T-3R3N  
+J4         WQP-PJ301M-12_JACK       1477mil    403.546mil       1477mil    374.016mil       1477mil    177.166mil  T        180.00 WQP-PJ301M-12_JACK
+J3         WQP-PJ301M-12_JACK    866.142mil    403.546mil    866.142mil    374.016mil    866.142mil    177.166mil  T        180.00 WQP-PJ301M-12_JACK
+J2         WQP-PJ301M-12_JACK    492.126mil    403.546mil    492.126mil    374.016mil    492.126mil    177.166mil  T        180.00 WQP-PJ301M-12_JACK
+J1         WQP-PJ301M-12_JACK   1850.394mil    403.546mil   1850.394mil    374.016mil   1850.394mil    177.166mil  T        180.00 WQP-PJ301M-12_JACK
+D3         LED_GRN/RED        1171.26mil   2540.945mil    1171.26mil   2440.945mil    1171.26mil   2640.945mil  T         90.00 SSL-LX3059IGW  
+D2         SOD123            1463.583mil   1555.118mil   1525.591mil   1555.118mil   1525.591mil   1555.118mil  B        180.00 1N5819HW-7-F   
+D1         SOD123                 648mil   1304.008mil        648mil       1242mil        648mil       1242mil  T         90.00 1N5819HW-7-F   
+C53        1608[0603]            2076mil       3708mil       2076mil       3708mil   2103.559mil       3708mil  T        180.00 06035G104ZAT2A 
+C52        1608[0603]            1892mil       3885mil       1892mil       3885mil   1864.441mil       3885mil  B        360.00 06035G104ZAT2A 
+C51        1608[0603]            1985mil       3778mil       1985mil       3778mil       1985mil   3750.441mil  B         90.00 06035G104ZAT2A 
+C50        1608[0603]            1920mil       3712mil       1920mil       3712mil   1947.559mil       3712mil  T        180.00 06035G104ZAT2A 
+C49        1608[0603]            1846mil       4089mil       1846mil       4089mil   1818.441mil       4089mil  T        360.00 06035G104ZAT2A 
+C48        1608[0603]            1700mil       1193mil       1700mil       1193mil   1672.441mil       1193mil  T        360.00 06035G104ZAT2A 
+C47        1608[0603]        1782.756mil   1289.252mil   1782.756mil   1289.252mil   1782.756mil   1316.811mil  T        270.00 06035G104ZAT2A 
+C46        1608[0603]            1215mil        255mil       1215mil        255mil   1242.559mil        255mil  T        180.00 06035G104ZAT2A 
+C45        1608[0603]            1485mil       2155mil       1485mil       2155mil       1485mil   2127.441mil  T         90.00 06035G104ZAT2A 
+C44        1608[0603]            1110mil        255mil       1110mil        255mil   1082.441mil        255mil  T        360.00 06035G104ZAT2A 
+C43        1608[0603]            1560mil       2285mil       1560mil       2285mil       1560mil   2312.559mil  T        270.00 06035G104ZAT2A 
+C42        1608[0603]             623mil       3354mil        623mil       3354mil        623mil   3381.559mil  T        270.00 06035G104ZAT2A 
+C41        1608[0603]             568mil       3354mil        568mil       3354mil        568mil   3381.559mil  T        270.00 CL10A105KA8NNNC
+C40        1608[0603]             840mil       3650mil        840mil       3650mil    867.559mil       3650mil  B        180.00 06035G104ZAT2A 
+C39        1608[0603]            1325mil       3185mil       1325mil       3185mil       1325mil   3212.559mil  B        270.00 06035G104ZAT2A 
+C38        1608[0603]             775mil       3780mil        775mil       3780mil        775mil   3807.559mil  B        270.00 06035G104ZAT2A 
+C37        1608[0603]            1302mil       3711mil       1302mil       3711mil   1329.559mil       3711mil  B        180.00 06035G104ZAT2A 
+C36        1608[0603]            1275mil       3185mil       1275mil       3185mil       1275mil   3212.559mil  B        270.00 06035G104ZAT2A 
+C35        1608[0603]             785mil   3180.449mil        785mil   3180.449mil        785mil   3208.008mil  B        270.00 06035G104ZAT2A 
+C34        1608[0603]             781mil       3434mil        781mil       3434mil        781mil   3461.559mil  B        270.00 06035G104ZAT2A 
+C33        1608[0603]             845mil       3525mil        845mil       3525mil    872.559mil       3525mil  B        180.00 06035G104ZAT2A 
+C32        1608[0603]             856mil       3315mil        856mil       3315mil    883.559mil       3315mil  B        180.00 06035G104ZAT2A 
+C31        1608[0603]             856mil       3365mil        856mil       3365mil    883.559mil       3365mil  B        180.00 CL10A105KA8NNNC
+C30        1608[0603]             840mil       3600mil        840mil       3600mil    867.559mil       3600mil  B        180.00 CL10A105KA8NNNC
+C29        C1206                 1210mil       3220mil       1210mil       3220mil       1210mil    3273.15mil  B        270.00 CC1206KKX7R7BB225
+C28        C1206                 1471mil       3690mil       1471mil       3690mil    1524.15mil       3690mil  T        180.00 CC1206KKX7R7BB225
+C27        1608[0603]             595mil       3658mil        595mil       3658mil    567.441mil       3658mil  T        360.00 CL10B103KB8NCNC
+C26        1608[0603]             339mil       3906mil        339mil       3906mil    366.559mil       3906mil  B        180.00 06035G104ZAT2A 
+C25        1608[0603]             827mil       2955mil        827mil       2955mil    799.441mil       2955mil  T        360.00 06035G104ZAT2A 
+C24        1608[0603]             827mil       2905mil        827mil       2905mil    799.441mil       2905mil  T        360.00 06035G104ZAT2A 
+C22        1608[0603]             736mil   3180.441mil        736mil   3180.441mil        736mil   3152.882mil  B         90.00 06035G104ZAT2A 
+C21        1608[0603]             686mil       3180mil        686mil       3180mil        686mil   3207.559mil  B        270.00 06035G104ZAT2A 
+C20        1608[0603]             705mil       3255mil        705mil       3255mil    677.441mil       3255mil  B        360.00 06035G104ZAT2A 
+C19        1608[0603]             705mil       3304mil        705mil       3304mil    677.441mil       3304mil  B        360.00 06035G104ZAT2A 
+C18        1608[0603]             900mil       1145mil        900mil       1145mil        900mil   1172.559mil  T        270.00 CL10B103KB8NCNC
+C17        1608[0603]        1007.716mil    969.252mil   1007.716mil    969.252mil   1035.275mil    969.252mil  T        180.00 CL10A105KA8NNNC
+C16        6-0805_N               213mil       1253mil        213mil       1253mil    177.567mil       1253mil  T        360.00 CL21A226KPCLRNC
+C15        6-0805_N               213mil       1172mil        213mil       1172mil    177.567mil       1172mil  T        360.00 CL21A226KPCLRNC
+C14        1608[0603]             201mil        792mil        201mil        792mil    173.441mil        792mil  T        360.00 C0603C220J5GACTU
+C13        C1206              576.142mil        965mil    576.142mil        965mil    576.142mil    1018.15mil  T        270.00 C3216JB1H106M160AB
+C12        C1206                  560mil       1231mil        560mil       1231mil        560mil    1284.15mil  T        270.00 C3216JB1H106M160AB
+C10        C0805             1624.527mil        885mil   1624.528mil        885mil   1654.055mil        885mil  T        180.00 CL21A475KACLRNC
+C9         SMT_Electrolytic   1525.591mil   1771.653mil   1525.591mil   1771.653mil   1525.591mil   1858.268mil  B        270.00 EEE-FK1V470P   
+C8         SMT_Electrolytic    787.402mil   2027.559mil    787.402mil   2027.559mil    787.402mil   1940.945mil  B         90.00 EEE-FK1V470P   
+C7         1608[0603]        1614.685mil     806.26mil   1614.685mil     806.26mil   1642.244mil     806.26mil  T        180.00 06035G104ZAT2A 
+C6Y        C1206                 1990mil       2920mil       1990mil       2920mil       1990mil    2973.15mil  T        270.00 CC1206KKX7R7BB225
+C6X        C1206               236.22mil   2933.071mil     236.22mil   2933.071mil     236.22mil    2986.22mil  T        270.00 CC1206KKX7R7BB225
+C5Y        C1206                 1484mil       2600mil       1484mil       2600mil    1537.15mil       2600mil  T        180.00 CC1206KKX7R7BB225
+C5X        C1206              137.795mil   2933.071mil    137.795mil   2933.071mil    137.795mil   2879.921mil  T         90.00 CC1206KKX7R7BB225
+C4         1608[0603]        2244.094mil    177.165mil   2244.095mil    177.165mil   2244.094mil    149.606mil  T         90.00 CC0603JRNPO9BN101
+C3         C1206             2086.614mil    629.921mil   2086.614mil    629.921mil   2086.614mil    576.772mil  T         90.00 C3216JB1H106M160AB
+C2         1608[0603]        2185.039mil    570.866mil   2185.039mil    570.866mil    2157.48mil    570.866mil  T        360.00 06031A470FAT2A 
+C1         1608[0603]        2153.543mil    212.598mil   2153.543mil    212.598mil   2181.102mil    212.598mil  T        180.00 CC0603JRNPO9BN101
+R38        6-0805_N              1140mil        100mil       1140mil        100mil   1175.433mil        100mil  T        180.00 RR1220P-103-D  
+R37        6-0805_N               627mil        177mil        627mil        177mil    662.433mil        177mil  B        180.00 RR1220P-103-D  
+U5         LQFP100_N         1003.937mil   3484.252mil   1003.937mil   3484.252mil    706.693mil   3720.472mil  T          0.00 STM32F407VGT6  
+C23        1608[0603]             838mil   3180.441mil        838mil   3180.441mil        838mil   3152.882mil  B         90.00 06035G104ZAT2A 
+TP28       Test_Point_Mt_Hole       2200mil       3568mil       2200mil       3568mil       2200mil       3568mil  T        360.00 loop test point
+TP27       Test_Point_Mt_Hole       2200mil       3466mil       2200mil       3466mil       2200mil       3466mil  T         90.00 loop test point
+
