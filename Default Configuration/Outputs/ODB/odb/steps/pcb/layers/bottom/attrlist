@@ -3,7 +3,7 @@
 .cu_base = no
 .comment =
 .inp_file =
-.eda_layers = "BottomPlane"
+.eda_layers = "BottomLayer"
 .out_angle = 0.0
 .out_polarity = positive
 .layer_hdi_type = buildup

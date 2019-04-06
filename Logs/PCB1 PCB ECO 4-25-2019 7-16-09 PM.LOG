@@ -1,0 +1,8 @@
+Added Component: Designator=C54(RES_0603)
+Added Component: Designator=C55(RES_0603)
+Added Pin To Net: NetName=GND Pin=C54-1
+Added Pin To Net: NetName=VCC Pin=C54-2
+Added Pin To Net: NetName=GND Pin=C55-1
+Added Pin To Net: NetName=VEE Pin=C55-2
+Added Member To Class: ClassName=U_Audio Member=Component C54 06035G104ZAT2A
+Added Member To Class: ClassName=U_Audio Member=Component C55 06035G104ZAT2A

@@ -1,0 +1,8 @@
+Added Component: Designator=S1(SB4011NCM)
+Added Component: Designator=S2(SB4011NCM)
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=BUTTON 1 Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=BUTTON 2 Pin=S2-2
+Added Member To Class: ClassName=U_Processor Member=Component S1 SB4011NCM
+Added Member To Class: ClassName=U_Processor Member=Component S2 SB4011NCM

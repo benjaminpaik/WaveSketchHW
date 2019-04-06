@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=OLED_VIN Pin=P3-1
+Removed Pin From Net: NetName=OLED_VIN Pin=P3-2
+Removed Pin From Net: NetName=GND Pin=P3-4
+Removed Pin From Net: NetName=GND Pin=P3-6
+Removed Pin From Net: NetName=GND Pin=P3-8
+Removed Pin From Net: NetName=GND Pin=P3-10
+Removed Pin From Net: NetName=GND Pin=P3-12
+Removed Pin From Net: NetName=GND Pin=P3-14
+Removed Pin From Net: NetName=GND Pin=P3-16
+Removed Pin From Net: NetName=GND Pin=P3-18
+Removed Pin From Net: NetName=GND Pin=P3-20
+Removed Pin From Net: NetName=GND Pin=R29-1
+Removed Pin From Net: NetName=GND Pin=R30-1
+Removed Pin From Net: NetName=GND Pin=R31-1
+Removed Member From Class: ClassName=U_Processor Member=P3
+Removed Member From Class: ClassName=U_Processor Member=R29
+Removed Member From Class: ClassName=U_Processor Member=R30
+Removed Member From Class: ClassName=U_Processor Member=R31
+Change Component DesignItemId : Designator=C3 Old DesignItemId=GRM32ER71J106KA12L New DesignItemId=Cap
+Change Component DesignItemId : Designator=C12 Old DesignItemId=GRM32ER71J106KA12L New DesignItemId=Cap
+Change Component DesignItemId : Designator=C13 Old DesignItemId=GRM32ER71J106KA12L New DesignItemId=Cap
+Change Component Footprint: Designator=C23 Old Footprint=1608[0603] New Footprint=C0603
+Change Component Comment : Designator=C3 Old Comment=C3216JB1H106M160AB New Comment=GRT31CR61H106ME01L
+Change Component Comment : Designator=C12 Old Comment=C3216JB1H106M160AB New Comment=GRT31CR61H106ME01L
+Change Component Comment : Designator=C13 Old Comment=C3216JB1H106M160AB New Comment=GRT31CR61H106ME01L
+Change Component Description : Designator=C3 Old Description=Ceramic Capacitor New Description=Capacitor
+Change Component Description : Designator=C12 Old Description=Ceramic Capacitor New Description=Capacitor
+Change Component Description : Designator=C13 Old Description=Ceramic Capacitor New Description=Capacitor
+Change Component Library : Designator=C3 Old Library=TI WEBENCH New Library=Miscellaneous Devices.SchLib
+Change Component Library : Designator=C12 Old Library=TI WEBENCH New Library=Miscellaneous Devices.SchLib
+Change Component Library : Designator=C13 Old Library=TI WEBENCH New Library=Miscellaneous Devices.SchLib
+Added Pin To Net: NetName=NRST Pin=U5-14
+Added Net: Name=NRST
+Added Pin To Net: NetName=SWCLK Pin=U5-76
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=U5-72
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=SWO Pin=U5-89
+Added Net: Name=SWO
+Added Member To Class: ClassName=U_Processor Member=Component C23 06035G104ZAT2A
+Added Member To Class: ClassName=U_Communications Member=Component TP27 loop test point
+Added Member To Class: ClassName=U_Communications Member=Component TP28 loop test point

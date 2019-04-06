@@ -289,15 +289,15 @@ DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\mechanical22
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\mid1\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Outline\features
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\mid2\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\plane1\features
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Outline\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\plane2\features
 DItemRevisionGUID=
 
 [GeneratedDocument28]
@@ -333,58 +333,110 @@ DocumentPath=Default Configuration\Outputs\NC Drill\PCB1-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Default Configuration\Outputs\NC Drill\PCB1-SquareHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument37]
 DocumentPath=Default Configuration\Outputs\NC Drill\PCB1.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument37]
 DocumentPath=Default Configuration\Outputs\Gerber\PCB1.EXTREP
 DItemRevisionGUID=
 
+[GeneratedDocument38]
+DocumentPath=Default Configuration\Outputs\Gerber\PCB1.GBL
+DItemRevisionGUID=
+
 [GeneratedDocument39]
-DocumentPath=Default Configuration\Outputs\DRC\PCB1.html
+DocumentPath=Default Configuration\Outputs\Gerber\PCB1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Default Configuration\Outputs\NC Drill\PCB1.LDP
+DocumentPath=Default Configuration\Outputs\Gerber\PCB1.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Default Configuration\Outputs\Gerber\PCB1.REP
+DocumentPath=Default Configuration\Outputs\Gerber\PCB1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Default Configuration\Outputs\ODB\PCB1.REP
+DocumentPath=Default Configuration\Outputs\Gerber\PCB1.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Default Configuration\Outputs\Gerber\PCB1.RUL
+DocumentPath=Default Configuration\Outputs\Gerber\PCB1.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Default Configuration\Outputs\ExportSTEP\PCB1.step
+DocumentPath=Default Configuration\Outputs\Gerber\PCB1.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Default Configuration\Outputs\Board Stack Report\PCB1.xls
+DocumentPath=Default Configuration\Outputs\Gerber\PCB1.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Default Configuration\Outputs\Pick Place\Pick Place for PCB1.txt
+DocumentPath=Default Configuration\Outputs\Gerber\PCB1.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\profile
+DocumentPath=Default Configuration\Outputs\Gerber\PCB1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\stephdr
+DocumentPath=Default Configuration\Outputs\Gerber\PCB1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument49]
+DocumentPath=Default Configuration\Outputs\Gerber\PCB1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Default Configuration\Outputs\Gerber\PCB1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Default Configuration\Outputs\DRC\PCB1.html
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Default Configuration\Outputs\NC Drill\PCB1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Default Configuration\Outputs\Gerber\PCB1.Outline
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Default Configuration\Outputs\Gerber\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Default Configuration\Outputs\ODB\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Default Configuration\Outputs\Gerber\PCB1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Default Configuration\Outputs\ExportSTEP\PCB1.step
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Default Configuration\Outputs\Board Stack Report\PCB1.xls
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Default Configuration\Outputs\Pick Place\Pick Place for PCB1.txt
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument62]
 DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
@@ -406,7 +458,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C3300 (Engineering)
+TargetPrinter=HP6147FF (HP ENVY 5530 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=XSpiceNetlist
 OutputName1=XSpice Netlist
@@ -424,7 +476,7 @@ Configuration2_Item1=NetlistVersion=0|Record=EdifView
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C3300 (Engineering)
+TargetPrinter=HP6147FF (HP ENVY 5530 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -541,7 +593,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C3300 (Engineering)
+TargetPrinter=HP6147FF (HP ENVY 5530 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -640,7 +692,7 @@ OutputDefault2=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C3300 (Engineering)
+TargetPrinter=HP6147FF (HP ENVY 5530 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -670,6 +722,8 @@ OutputName5=Gerber Files
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
+Configuration5_Name1=OutputConfigurationParameter1
+Configuration5_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 OutputType6=Mask
 OutputName6=Solder/Paste Mask Prints
 OutputDocumentPath6=
@@ -696,7 +750,7 @@ PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C3300 (Engineering)
+TargetPrinter=HP6147FF (HP ENVY 5530 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -728,7 +782,7 @@ OutputDefault5=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C3300 (Engineering)
+TargetPrinter=HP6147FF (HP ENVY 5530 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -908,7 +962,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C3300 (Engineering)
+TargetPrinter=HP6147FF (HP ENVY 5530 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Electrical Rules Check
 OutputName1=Electrical Rules Check
@@ -944,7 +998,7 @@ PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C3300 (Engineering)
+TargetPrinter=HP6147FF (HP ENVY 5530 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=ExportSTEP
 OutputName1=Export STEP
