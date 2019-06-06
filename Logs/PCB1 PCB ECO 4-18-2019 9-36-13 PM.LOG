@@ -1,4 +1,0 @@
-Added Component: Designator=R9_U_Encoders_Y(RES_0805)
-Added Pin To Net: NetName=NetR7_U_Encoders_Y_2 Pin=R9_U_Encoders_Y-1
-Added Pin To Net: NetName=NetC6_U_Encoders_Y_2 Pin=R9_U_Encoders_Y-2
-Added Member To Class: ClassName=U_Encoders_Y Member=Component R9_U_Encoders_Y (R9) RR1220P-103-D

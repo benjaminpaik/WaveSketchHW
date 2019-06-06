@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=TP2-1
+Removed Pin From Net: NetName=DAC_SCL Pin=TP6-1
+Removed Pin From Net: NetName=DAC_SDA Pin=TP7-1
+Removed Pin From Net: NetName=NetJ2_3 Pin=TP15-1
+Removed Pin From Net: NetName=NetR13_2 Pin=TP16-1
+Removed Pin From Net: NetName=NetJ3_3 Pin=TP17-1
+Removed Pin From Net: NetName=NetR14_2 Pin=TP18-1
+Removed Pin From Net: NetName=NetJ4_3 Pin=TP21-1
+Removed Member From Class: ClassName=U_Audio Member=TP2
+Removed Member From Class: ClassName=U_Analog Member=TP15
+Removed Member From Class: ClassName=U_Analog Member=TP16
+Removed Member From Class: ClassName=U_Analog Member=TP17
+Removed Member From Class: ClassName=U_Analog Member=TP18
+Removed Member From Class: ClassName=U_Analog Member=TP21
+Change Component Designator: OldDesignator=TP1 NewDesignator=TP4
+Change Component Designator: OldDesignator=TP3 NewDesignator=TP2
+Change Component Designator: OldDesignator=TP4 NewDesignator=TP1
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP3
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP18
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP19
+Change Component Designator: OldDesignator=TP10 NewDesignator=TP12
+Change Component Designator: OldDesignator=TP11 NewDesignator=TP13
+Change Component Designator: OldDesignator=TP12 NewDesignator=TP14
+Change Component Designator: OldDesignator=TP13 NewDesignator=TP15
+Change Component Designator: OldDesignator=TP14 NewDesignator=TP5
+Change Component Designator: OldDesignator=TP19 NewDesignator=TP8
+Change Component Designator: OldDesignator=TP20 NewDesignator=TP11
+Change Component Designator: OldDesignator=TP22 NewDesignator=TP9
+Change Component Designator: OldDesignator=TP23 NewDesignator=TP10
+Added Component: Designator=TP16(Test Point Mt Hole)
+Added Component: Designator=TP17(Test Point Mt Hole)
+Added Component: Designator=TP20(Test Point Mt Hole)
+Added Pin To Net: NetName=NetR13_2 Pin=TP6-1
+Added Pin To Net: NetName=NetR14_2 Pin=TP7-1
+Added Pin To Net: NetName=DAC_SCL Pin=TP6-1
+Added Pin To Net: NetName=DAC_SDA Pin=TP7-1
+Added Pin To Net: NetName=NetR44_2 Pin=TP20-1
+Added Member To Class: ClassName=U_Analog Member=Component TP6 loop test point
+Added Member To Class: ClassName=U_Analog Member=Component TP7 loop test point
+Added Member To Class: ClassName=U_Communications Member=Component TP20 loop test point

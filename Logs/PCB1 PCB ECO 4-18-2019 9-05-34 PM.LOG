@@ -1,8 +1,0 @@
-Added Component: Designator=C52(RES_0603)
-Added Component: Designator=C53(RES_0603)
-Added Pin To Net: NetName=GND Pin=C52-1
-Added Pin To Net: NetName=+2.5VREF Pin=C52-2
-Added Pin To Net: NetName=GND Pin=C53-1
-Added Pin To Net: NetName=+1.25VREF Pin=C53-2
-Added Member To Class: ClassName=U_Analog Member=Component C52 06035G104ZAT2A
-Added Member To Class: ClassName=U_Analog Member=Component C53 06035G104ZAT2A

@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=J1 Old DesignItemId=Phonejack3 New DesignItemId=Phonejack2 TN
+Change Component DesignItemId : Designator=J4 Old DesignItemId=Phonejack3 New DesignItemId=Phonejack2 TN
+Change Component Comment : Designator=J1 Old Comment=WQP-PJ301M-12_JACK New Comment=
+Change Component Comment : Designator=J4 Old Comment=WQP-PJ301M-12_JACK New Comment=
+Change Component Description : Designator=J1 Old Description=3.5mm Eurorack Jacks New Description=Jack Socket, 1/4" [6.5mm], Thru-Hole, Vertical, 2-Conductor with Tip closed
+Change Component Description : Designator=J4 Old Description=3.5mm Eurorack Jacks New Description=Jack Socket, 1/4" [6.5mm], Thru-Hole, Vertical, 2-Conductor with Tip closed
+Change Component Library : Designator=J1 Old Library=Custom.SchLib New Library=Miscellaneous Connectors.SchLib
+Change Component Library : Designator=J4 Old Library=Custom.SchLib New Library=Miscellaneous Connectors.SchLib

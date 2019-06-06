@@ -1,14 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 9:16:51 PM On 4/30/2019
+Start Output Generation At 8:25:37 PM On 8/28/2019
 
-Output: BOM_PartType
-Type  : BOM
-From  : Variant [[No Variations]] of Project [EtchaSound.PrjPcb]
-   Generated File[BOM_PartType-EtchaSound.xls]
+Output: ExportSTEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [PCB1.CSPcbDoc]
+   Generated File[PCB1.step]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 9:17:05 PM On 4/30/2019
+Finished Output Generation At 8:25:49 PM On 8/28/2019
